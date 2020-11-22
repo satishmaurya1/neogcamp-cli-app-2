@@ -1,0 +1,1 @@
+* this is the quiz cli app which have 10 questions and each questions have four options and you have to choose the correct one
